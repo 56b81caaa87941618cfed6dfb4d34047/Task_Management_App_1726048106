@@ -1,0 +1,18 @@
+{
+    "id": "dark_header_component-63825b39-0748-e6f6-d3ad-77ea620f6fd7",
+    "name": "dark_header_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
